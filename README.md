@@ -77,10 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DholariyaRikki/DholariyaRikki/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DholariyaRikki/DholariyaRikki/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DholariyaRikki/DholariyaRikki/pacman-output/pacman-contribution-graph.svg">
